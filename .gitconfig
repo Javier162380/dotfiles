@@ -1,0 +1,7 @@
+[user]
+	email = javierllorente16@gmail.com
+	name = javier162380
+[diff "sopsdiffer"]
+	textconv = sops -d
+[core]
+	editor = vim
